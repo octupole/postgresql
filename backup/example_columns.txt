@@ -1,0 +1,15 @@
+# Example column labels file
+# One column name per line, comments start with #
+
+id
+user_name  
+email_address
+created_at
+updated_at
+is_active
+birth_date
+phone_number
+profile_metadata
+tags
+total_amount
+order_count

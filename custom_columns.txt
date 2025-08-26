@@ -1,0 +1,11 @@
+# Custom column definitions
+# Format: column_name:postgresql_type
+id:SERIAL PRIMARY KEY  
+name:VARCHAR(100)
+email_address:TEXT
+birth_date:DATE
+is_active:BOOLEAN
+total_amount:NUMERIC(10,2)
+phone_number:VARCHAR(20)
+tags:TEXT[]
+profile_data:JSONB
