@@ -129,4 +129,4 @@ config.ini
 secrets.json
 credentials.json
 backup/
-postgesSQL-rpi5/
+postgreSQL-rpi5/
